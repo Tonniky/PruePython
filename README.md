@@ -1,2 +1,2 @@
 # PruePython
-python learnning
+python learning
